@@ -1,0 +1,9 @@
+[submodule "ros2_ws/src/micro_ros_setup"]
+	path = ros2_ws/src/micro_ros_setup
+	url = git@github.com:toshiharutf/micro_ros_setup.git
+[submodule "ros2_ws/src/px4_msgs"]
+	path = ros2_ws/src/px4_msgs
+	url = git@github.com:toshiharutf/px4_msgs.git
+[submodule "ros2_ws/src/px4_ros_com"]
+	path = ros2_ws/src/px4_ros_com
+	url = git@github.com:toshiharutf/px4_ros_com.git
